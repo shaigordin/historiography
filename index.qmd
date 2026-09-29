@@ -1,12 +1,11 @@
 ---
 title: "היסטוריוגרפיה במקרא ובמזרח הקדום תשפ״ז"
 subtitle: "Historiography in the Bible and the Ancient Near East"
-image: hammurabi-stele.jpg
+image: hammurabi-banner.jpg
 fig-cap: "^[אסטלת חוקי חמורבי (בבל, המאה ה-18 לפנה״ס), מוזיאון הלובר, Sb 8. התמונה מתוך מצגת הקורס [״ההיסטוריה של חוקים, תקנות וצווי הארמון בממלכת ישראל ובמזרח התיכון הקדום״](https://docs.google.com/presentation/d/1XcKcKLIlpZsgv1EchIPNQfspuCPRP8U2S4rAn2V4Wpk/edit?usp=sharing).]"
 about:
   template: marquee
   image-shape: rounded
-  image-width: 11em
 ---
 
 ::: callout-warning
