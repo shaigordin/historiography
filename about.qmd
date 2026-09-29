@@ -1,0 +1,40 @@
+---
+title: "תכנית הוראה מפורטת"
+---
+כל המפגשים בכיתה הם פרונטליים. בשבועות של פעילות בבית אין שיעור. רמת השימוש המותרת בבינה מלאכותית בכל משימה מופיעה בעמוד [מדיניות AI](ai-policy.qmd).
+
+## יחידה 1: סופרים, ארכיונים וכתיבה היסטורית
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+df <- read.csv("data/schedule-unit1.csv", check.names = FALSE, encoding = "UTF-8")
+knitr::kable(df, escape = FALSE, format = "html",
+  col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה", "פעילות ומקרה בוחן"),
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
+```
+
+## יחידה 2: חוק, דיפלומטיה ותעמולה באלף השני לפנה״ס
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+df <- read.csv("data/schedule-unit2.csv", check.names = FALSE, encoding = "UTF-8")
+knitr::kable(df, escape = FALSE, format = "html",
+  col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה", "פעילות ומקרה בוחן"),
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
+```
+
+## יחידה 3: ישראל ויהודה בצל האימפריות
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+df <- read.csv("data/schedule-unit3.csv", check.names = FALSE, encoding = "UTF-8")
+knitr::kable(df, escape = FALSE, format = "html",
+  col.names = c("תאריך", "סוג שיעור", "מצגת", "נושאי השיעור", "קריאה", "פעילות ומקרה בוחן"),
+  table.attr = 'class="table table-striped table-hover" dir="rtl"')
+```
