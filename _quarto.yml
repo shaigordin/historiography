@@ -4,7 +4,7 @@ project:
 
 website:
   title: "היסטוריוגרפיה במקרא ובמזרח הקדום / שי גורדין"
-  favicon: header.svg
+  favicon: ariel_logo_navbar.png
   open-graph: true
   reader-mode: true
   navbar:
