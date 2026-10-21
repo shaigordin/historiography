@@ -6,14 +6,14 @@ title: "ביבליוגרפיה ומקורות"
 
 ## מבוא להיסטוריוגרפיה מקראית וכתיבה היסטורית במזרח הקדום
 
-- \*נ׳ נאמן, ״ההיסטוריוגרפיה המקראית בספרי נביאים ראשונים״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים (בין מקרא למשנה)*, כרך ראשון. ירושלים, תשע״א, עמ׳ 371–390.
+- \*נ׳ נאמן, ״ההיסטוריוגרפיה המקראית בספרי נביאים ראשונים״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים (בין מקרא למשנה)*, כרך ראשון. ירושלים, תשע״א, עמ׳ 371–390. ([PDF](https://drive.google.com/file/d/1vqmNCUA4hdAQx81t0CRSxkVp6iGwYR0q/view?usp=sharing){target="_blank"})
 - Levin, Y. 2017. *The Chronicles of the Kings of Judah. 2 Chronicles 10–36: A New Translation and Commentary*. London.
 - Sweeney, M. A. 2007. *I & II Kings: A Commentary*. Louisville.
 - Van Seters, J. 1997. *In Search of History: Historiography in the Ancient World and the Origins of Biblical History*. Winona Lake, pp. 209–248.
 
 ## סופרים, ארכיונים ומה שביניהם
 
-- \*Taylor, J. 2011. “Tablets as Artefacts, Scribes as Artisans.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 5–31. <https://doi.org/10.1093/oxfordhb/9780199557301.001.0001>
+- \*Taylor, J. 2011. “Tablets as Artefacts, Scribes as Artisans.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 5–31. <https://doi.org/10.1093/oxfordhb/9780199557301.001.0001> ([PDF](https://drive.google.com/file/d/1cjJ-ZhWN_PgL8lQaeoPDTKfuVGFiuSH5/view?usp=sharing){target="_blank"})
 - Waerzeggers, C. 2012. “The Babylonian Chronicles: Classification and Provenance.” *Journal of Near Eastern Studies* 71/2: 285–298. <https://doi.org/10.1086/666831>
 - Jones, T. B. 1967. *Paths to the Ancient Past*. New York, 136–143.
 - Chadwick, J. 1987. *Linear B and Related Scripts*. London.
@@ -22,14 +22,14 @@ title: "ביבליוגרפיה ומקורות"
 
 ## מהי היסטוריה? מהי היסטוריוגרפיה?
 
-- \*בלוך, מ׳ 2002. *אפולוגיה על ההסטוריה או: מקצועו של ההסטוריון*. ירושלים, עמ׳ 62–66, 206–207.
-- \*ארנולד, ג׳ ה׳ 2007. ״הרג חתולים או: האם העבר הוא ארץ זרה?״ בתוך: *הסטוריה*. תל אביב, עמ׳ 97–110.
+- \*בלוך, מ׳ 2002. *אפולוגיה על ההסטוריה או: מקצועו של ההסטוריון*. ירושלים, עמ׳ 62–66, 206–207. ([PDF](https://drive.google.com/file/d/1K6wq6oxl-WJ92Txl9l3UWtDVsGWwxINs/view?usp=sharing){target="_blank"})
+- \*ארנולד, ג׳ ה׳ 2007. ״הרג חתולים או: האם העבר הוא ארץ זרה?״ בתוך: *הסטוריה*. תל אביב, עמ׳ 97–110. ([PDF](https://drive.google.com/file/d/1cFSAmulDjIApt4o912WSFP__PRFHZZYC/view?usp=sharing){target="_blank"})
 - Liverani, M. 1973. “Memorandum on the Approach to Historiographic Texts.” *Orientalia* 42: 178–194.
 - Morley, N. 1999. “What Is History?” In *Writing Ancient History*. London, 19–52.
 
 ## חיי יום יום: המושבות האשוריות והתעודות מכניש
 
-- \*Van De Mieroop, M. 1999. “Innaja, an Old Assyrian Merchant.” In *Cuneiform Texts and the Writing of History*. London, 92–98.
+- \*Van De Mieroop, M. 1999. “Innaja, an Old Assyrian Merchant.” In *Cuneiform Texts and the Writing of History*. London, 92–98. ([PDF](https://drive.google.com/file/d/1iolD9sQpbw_BCeXbdulhSQM9a83xiXXA/view?usp=sharing){target="_blank"})
 - \*Michel, C. 2020. *Women of Assur and Kanesh: Texts from the Archives of Assyrian Merchants*. WAW 42. Atlanta: SBL Press (מכתבים נבחרים).
 - Barjamovic, G., T. Chaney, K. Coşar, and A. Hortaçsu. 2019. “Trade, Merchants, and the Lost Cities of the Bronze Age.” *Quarterly Journal of Economics* 134(3): 1455–1503. <https://doi.org/10.1093/qje/qjz009> ([PDF באתר המחברים](https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf))
 
