@@ -13,12 +13,12 @@ title: "ביבליוגרפיה ומקורות"
 
 ## סופרים, ארכיונים ומה שביניהם
 
-- \*Taylor, J. 2011. “Tablets as Artefacts, Scribes as Artisans.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 5–31.
-- Waerzeggers, C. 2012. “The Babylonian Chronicles: Classification and Provenance.” *Journal of Near Eastern Studies* 71/2: 285–298.
+- \*Taylor, J. 2011. “Tablets as Artefacts, Scribes as Artisans.” In K. Radner and E. Robson (eds.), *The Oxford Handbook of Cuneiform Culture*. Oxford, 5–31. <https://doi.org/10.1093/oxfordhb/9780199557301.001.0001>
+- Waerzeggers, C. 2012. “The Babylonian Chronicles: Classification and Provenance.” *Journal of Near Eastern Studies* 71/2: 285–298. <https://doi.org/10.1086/666831>
 - Jones, T. B. 1967. *Paths to the Ancient Past*. New York, 136–143.
 - Chadwick, J. 1987. *Linear B and Related Scripts*. London.
 - Lazar, K., et al. 2021. “Filling the Gaps in Ancient Akkadian Texts: A Masked Language Modelling Approach.” *EMNLP 2021*. <https://aclanthology.org/2021.emnlp-main.384/>
-- Gutherz, G., et al. 2023. “Translating Akkadian to English with Neural Machine Translation.” *PNAS Nexus* 2(5): pgad096.
+- Gutherz, G., et al. 2023. “Translating Akkadian to English with Neural Machine Translation.” *PNAS Nexus* 2(5): pgad096. <https://doi.org/10.1093/pnasnexus/pgad096>
 
 ## מהי היסטוריה? מהי היסטוריוגרפיה?
 
@@ -31,7 +31,7 @@ title: "ביבליוגרפיה ומקורות"
 
 - \*Van De Mieroop, M. 1999. “Innaja, an Old Assyrian Merchant.” In *Cuneiform Texts and the Writing of History*. London, 92–98.
 - \*Michel, C. 2020. *Women of Assur and Kanesh: Texts from the Archives of Assyrian Merchants*. WAW 42. Atlanta: SBL Press (מכתבים נבחרים).
-- Barjamovic, G., T. Chaney, K. Coşar, and A. Hortaçsu. 2019. “Trade, Merchants, and the Lost Cities of the Bronze Age.” *Quarterly Journal of Economics* 134(3): 1455–1503.
+- Barjamovic, G., T. Chaney, K. Coşar, and A. Hortaçsu. 2019. “Trade, Merchants, and the Lost Cities of the Bronze Age.” *Quarterly Journal of Economics* 134(3): 1455–1503. <https://doi.org/10.1093/qje/qjz009> ([PDF באתר המחברים](https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf))
 
 ## חוקים, תקנות וצווי הארמון
 
@@ -53,7 +53,7 @@ title: "ביבליוגרפיה ומקורות"
 
 - \*כוגן, מ׳ 2003. *אסופת כתובות הסטוריות מאשור ובבל: מאות ט׳–ו׳ לפסה״נ*. ירושלים.
 - לוין, י׳ תשע״ב. ״נאומו העברי של רבשקה: היסטוריה מול רטוריקה״, בתוך: א׳ ברוך, א׳ לוי-רייפר וא׳ פאוסט (עורכים), *חידושים בחקר ירושלים* 17. רמת גן, עמ׳ 137–149.
-- נאמן, נ׳ 1989. ״שינויי אוכלוסין בארץ-ישראל בעקבות ההגליות האשוריות״. *קתדרה* 54: 43–62.
+- נאמן, נ׳ 1989. ״שינויי אוכלוסין בארץ-ישראל בעקבות ההגליות האשוריות״. *קתדרה* 54: 43–62. [PDF באתר יד בן-צבי](https://files.ybz.org.il/periodicals/Cathedra/54/Article_54.12.pdf)
 - Glassner, J.-J. 2004. *Mesopotamian Chronicles*. SBL WAW 19. Atlanta.
 - Postgate, J. N. 1994. “Text and Figure in Ancient Mesopotamia: Match and Mismatch.” In C. Renfrew and E. B. W. Zubrow (eds.), *The Ancient Mind*. Cambridge, 176–184.
 - Frahm, E. 2023. *Assyria: The Rise and Fall of the World’s First Empire*. New York: Basic Books.
@@ -65,9 +65,9 @@ title: "ביבליוגרפיה ומקורות"
 - \*פינקלשטיין, י׳ וסילברמן, נ׳ א׳ 2003. ״מבוא״. בתוך: *ראשית ישראל: ארכיאולוגיה, מקרא וזכרון הסטורי*. תל אביב, עמ׳ 22–41.
 - \*״חרסי שומרון״. בתוך: ש׳ אחיטוב 2005. *הכתב והמכתב*. ירושלים.
 - \*מכתב לכיש VI. בתוך: *כתובות מספרות*. מוזיאון ישראל, קטלוג מס׳ 100, 1972.
-- \*Na’aman, N. 2012. “Biblical and Historical Jerusalem in the Tenth and Fifth–Fourth Centuries BCE.” *Biblica* 93: 21–42.
-- זינגר, א׳ 2001. ״התנ״ך כהסטוריה?״ *הארץ*, 21.12.2001.
+- \*Na’aman, N. 2012. “Biblical and Historical Jerusalem in the Tenth and Fifth–Fourth Centuries BCE.” *Biblica* 93: 21–42. <https://www.bsw.org/biblica/vol-93-2012/biblical-and-historical-jerusalem-in-the-tenth-and-fifth-fourth-centuries-bce/486>
+- זינגר, א׳ 2001. ״התנ״ך כהסטוריה?״ *הארץ*, 19.12.2001. <https://www.haaretz.co.il/misc/2001-12-19/ty-article/0000017f-e812-d62c-a1ff-fc7b96200000> (גם [באתר הידען](https://hayadan.com/is-bible-a-history-book-211201))
 - Rainey, A. F. 1982. “Historical Geography.” *Biblical Archaeologist* 45: 217–223.
-- Langlois, M. 2019. “The Kings, the City and the House of David on the Mesha Stele in Light of New Imaging Techniques.” *Semitica* 61: 23–47.
+- Langlois, M. 2019. “The Kings, the City and the House of David on the Mesha Stele in Light of New Imaging Techniques.” *Semitica* 61: 23–47. [PDF באתר המחבר](https://michaellanglois.fr/medias/langlois-2019-the-kings-the-city-and-the-house-of-david-on-the-mesha-stele-semitica-61-p--23-47.pdf)
 - Finkelstein, I., N. Na’aman, and T. Römer. 2019. “Restoring Line 31 in the Mesha Stele: The ‘House of David’ or Biblical Balak?” *Tel Aviv* 46(1). <https://doi.org/10.1080/03344355.2019.1586378>
 - Regev, J., et al. 2024. “Radiocarbon Chronology of Iron Age Jerusalem Reveals Calibration Offsets and Architectural Developments.” *PNAS* 121(19): e2321024121. <https://doi.org/10.1073/pnas.2321024121>
